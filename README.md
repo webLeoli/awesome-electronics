@@ -146,6 +146,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
 
 ## Part Search Engines
+- [Easybom](https://octopart.com) - The most convenient and comprehensive component search engine.
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
 - [Findchips](https://www.findchips.com/) - Part search from Supply Frame.
 - [Parts.io](https://parts.io/) - Another search engine from Supply Frame geared towards discovering new parts.
